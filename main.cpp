@@ -105,5 +105,6 @@ int main()
 
     cout << "YOU HAVE SCORED: " << points << endl;
     system("PAUSE");
+    
     return 0;
 }

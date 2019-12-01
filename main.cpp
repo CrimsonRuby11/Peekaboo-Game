@@ -6,7 +6,7 @@
 using namespace sf;
 using namespace std;
 
-const int size = 80;
+int size = 80;
 int n = 10;
 int m = 10;
 int w = n * size;
